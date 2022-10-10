@@ -4,7 +4,7 @@ Map Based Social Network
 This was developed as part of my disseration, as a result the code isn't currently avalible. If you would like to see it please get in touch!
 
 Tech Stack:
-MongoDB, Express, React, Node
+MongoDB, Express, React, Node, Amazon S3.
 
 This project was intended to help incoming students to find their way around a campus and wider universty city. This is achived by allowing users to place pins on a interactive map of the city. Attached to these pins is a popup which can contain either  text, video or an image. These multimedia posts can be used by both teaching staff and students to share their favourite parts of the city and campus. To make a new post a user simply double clicks the desired location on a map. Following this they are met by an interface that allows them to create their pin at that location.  
 
